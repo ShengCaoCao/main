@@ -2,10 +2,9 @@
 \usepackage{amsmath}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%
-%%% Replicating weights, take 1 
 %%% 
 %%% mjm / 2009-11-23 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% People really like Gibbs sampling, because Gibbs sampling is really easy for the models for which Gibbs sampling is easy.
+
 
 %%% options to change font. If you want to play with MinionPro,
 %%% come bug me sometime. --mike
