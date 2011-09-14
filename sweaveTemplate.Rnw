@@ -144,7 +144,7 @@
 \defaultfontfeatures{Ligatures={Common}, Mapping={tex-text}} 
 \setromanfont [BoldFont={* Bold}, ItalicFont={* Italic}]{Minion Pro}
 %\setromanfont [Mapping=tex-text,Ligatures={Common},BoldFont={ElectraLH-Bold},ItalicFont={ElectraLH-CursiveOsF},BoldItalicFont={ElectraLH-BoldCursiveOsF},SmallCapsFont={ElectraLH-RegularSC}]{ElectraLH-RegularOsF}
-\setsansfont[Mapping=tex-text,BoldFont={Delicious-Bold},ItalicFont={Delicious-Italic},SmallCapsFont={Delicious-SmallCaps}] {Delicious-Roman}
+\setsansfont[Mapping=tex-text,SmallCapsFont={Delicious-SmallCaps}] {Azuro}
 \setmonofont[Scale=0.8]{Monaco} 
 %\usepackage[final,expansion=true,protrusion=true,spacing=true,kerning=true]{microtype}
 
@@ -195,6 +195,5 @@ library(xtable)
 library(apsrtable)
 options(width=100)
 @ 
-
 
 \end{document}
